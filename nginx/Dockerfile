@@ -1,4 +1,4 @@
-# ~/docker_server/nginx/Dockerfile 
+
 
 FROM nginx:latest 
 

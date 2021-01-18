@@ -1,3 +1,2 @@
 
-docker-compose.yml
-django_server
+django_server/apps.sock
