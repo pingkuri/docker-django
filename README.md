@@ -1,6 +1,6 @@
 # docker-django installation
 
-    git clone https://github.com/pingkuri/docker-django.git 
+    git clone https://github.com/zuzu1014/docker-django 
 
     docker-compose up --build
 
