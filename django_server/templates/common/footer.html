@@ -1,0 +1,23 @@
+<div id="footer">
+    <div id="footer__email">zuzupython@gmail.com</div>
+    <div id="footer__copyright"></div>
+</div>
+
+<script>
+    let year = new Date().getFullYear();
+    document.querySelector("#footer__copyright").innerText = `© Copyright ${year}. All rights reserved.`
+</script>
+
+<style>
+    #footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 20vh;
+        margin-top: 125vh;
+        background-color: #225596;
+        color: white;
+    }
+</style>
